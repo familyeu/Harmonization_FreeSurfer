@@ -1,4 +1,4 @@
-# Harmonization_FreeSurfer
+# Harmonization FreeSurfer
  FAMILY FreeSurfer Harmonization scripts
 
 
